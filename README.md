@@ -19,17 +19,18 @@ With the application, a user will be able to:
 
 * A computer running on either Windows, MacOS or Ubuntu linux operating system installed with the following:
 
--Python version 3.6
--Flask
--virtual environment
+- Python version 3.6
+- Flask
+- virtual environment
 - code text  Editor
 
+### CODEBEAT  [![codebeat badge](https://codebeat.co/badges/3cf4d4f8-9360-47f4-a240-b7c9a41ecdb1)](https://codebeat.co/projects/github-com-jamesodera-newshighlight-master)
 
 ## Technologies Used
 
-* Python v3.6
-* Boostrap
-* Flask
+- Python v3.6
+- Boostrap
+- Flask
 
 ## License
 
@@ -41,5 +42,5 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. Copyright (c) 2018 Peter Polle
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. Copyright (c) 2020 James Odera.
 
